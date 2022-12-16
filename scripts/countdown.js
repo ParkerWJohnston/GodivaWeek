@@ -1,5 +1,5 @@
 function startTimer() {
-    let then = new Date("Jan 4, 2021 00:00:01 EST").getTime();
+    let then = new Date("Jan 9, 2023 00:00:01 EST").getTime();
     let x = setInterval(function() {
         let now = new Date().getTime();
         let time = then - now;

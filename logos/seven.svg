@@ -5,38 +5,40 @@
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
 	.st1{fill:none;}
-	.st2{font-family:'Lato-Regular';}
+	.st2{font-family:'Lato-Bold';}
 	.st3{font-size:14px;}
 	.st4{font-size:28px;}
 </style>
 <circle class="st0" cx="50.8" cy="62.9" r="10.5"/>
 <circle class="st0" cx="163" cy="117.3" r="10.5"/>
 <circle class="st0" cx="149.5" cy="280.7" r="12.3"/>
-<circle class="st0" cx="52.6" cy="417.5" r="12.3"/>
+<ellipse transform="matrix(3.327792e-02 -0.9994 0.9994 3.327792e-02 -366.4192 456.1773)" class="st0" cx="52.6" cy="417.5" rx="12.3" ry="12.3"/>
 <circle class="st0" cx="137.2" cy="513.5" r="12.3"/>
-<circle class="st0" cx="126.1" cy="681" r="12.3"/>
-<circle class="st0" cx="63.1" cy="799.5" r="12.3"/>
-<g>
-	<path class="st0" d="M50.9,62.7l28.3,13.1l14.1,6.6l14.1,6.7l28.2,13.3c9.4,4.4,18.7,9,28.1,13.4l1,0.5l-0.1,1.1l-3.2,40.9
-		c-1,13.6-2.2,27.2-3.4,40.9l-1.8,20.4l-1.9,20.4l-3.8,40.8l0,0.3l-0.2,0.2c-8.2,11.3-16.4,22.7-24.5,34l-12.1,17.1l-12.1,17.1
-		c-8,11.4-16.1,22.8-24.1,34.3l-23.9,34.4l-0.1-1.5l21.4,23.8l21.3,23.9l42.5,47.8l0.5,0.6l-0.1,0.8l-2.6,41.9l-2.8,41.9l-2.9,41.9
-		l-3,41.9l0,0.4l-0.2,0.3l-16,29.5l-16.1,29.4l-16.1,29.4l-16.2,29.4l-0.4-0.2l15.3-29.9l15.4-29.8l15.4-29.8l15.6-29.7l-0.2,0.7
-		l2.5-41.9l2.6-41.9l2.8-41.9l2.9-41.9l0.5,1.4l-42.1-48.2l-21-24.1l-20.9-24.2l-0.6-0.7l0.6-0.8l24.5-34
-		c8.2-11.3,16.3-22.7,24.4-34.1l12.1-17.1l12.1-17.1c8-11.4,16-22.9,23.9-34.4l-0.2,0.5l3-40.9l1.5-20.4l1.6-20.4
-		c1.1-13.6,2.2-27.2,3.4-40.9l3.5-40.8l0.9,1.6c-9.3-4.6-18.7-9.1-28-13.7l-27.9-13.9l-14-6.9l-13.9-7L50.7,63.1L50.9,62.7z"/>
-</g>
+<ellipse transform="matrix(0.9951 -9.853759e-02 9.853759e-02 0.9951 -66.4904 15.7398)" class="st0" cx="126.1" cy="681" rx="12.3" ry="12.3"/>
+<path class="st0" d="M50.9,62.7l28.3,13.1l14.1,6.6l14.1,6.7l28.2,13.3c9.4,4.4,18.7,9,28.1,13.4l1,0.5l-0.1,1.1l-3.2,40.9
+	c-1,13.6-2.2,27.2-3.4,40.9l-1.8,20.4l-1.9,20.4l-3.8,40.8v0.3l-0.2,0.2c-8.2,11.3-16.4,22.7-24.5,34l-12.1,17.1l-12.1,17.1
+	c-8,11.4-16.1,22.8-24.1,34.3l-23.9,34.4l-0.1-1.5l21.4,23.8l21.3,23.9l42.5,47.8l0.5,0.6l-0.1,0.8l-2.6,41.9l-2.8,41.9l-2.9,41.9
+	l-3,41.9v0.4l-0.2,0.3l-3.1-1.7l-0.2,0.7l2.5-41.9l2.6-41.9l2.8-41.9l2.9-41.9l0.5,1.4l-42.1-48.2l-21-24.1l-20.9-24.2l-0.6-0.7
+	l0.6-0.8l24.5-34c8.2-11.3,16.3-22.7,24.4-34.1l12.1-17.1l12.1-17.1c8-11.4,16-22.9,23.9-34.4l-0.2,0.5l3-40.9l1.5-20.4l1.6-20.4
+	c1.1-13.6,2.2-27.2,3.4-40.9l3.5-40.8l0.9,1.6c-9.3-4.6-18.7-9.1-28-13.7l-27.9-13.9l-14-6.9l-13.9-7L50.7,63.1L50.9,62.7z"/>
 <rect x="72" y="38.4" class="st1" width="284.9" height="62"/>
-<text transform="matrix(1 0 0 1 72.0426 48.7292)"><tspan x="0" y="0" class="st0 st2 st3">Jan 9, 7:00 pm</tspan><tspan x="0" y="24" class="st0 st2 st4">Godiva’s Resurrection</tspan></text>
+<text transform="matrix(1 0 0 1 72.0426 48.7292)" class="st0 st2 st3">Jan 9, 7:00 pm</text>
+<text transform="matrix(1 0 0 1 72.0426 72.7292)" class="st0 st2 st4">Godiva’s Resurrection</text>
 <rect x="180.5" y="92.7" class="st1" width="237.4" height="62"/>
-<text transform="matrix(1 0 0 1 180.4574 103.0266)"><tspan x="0" y="0" class="st0 st2 st3">Jan 9, 8:00 pm</tspan><tspan x="0" y="24" class="st0 st2 st4">Ultimate F!rosh</tspan></text>
+<text transform="matrix(1 0 0 1 180.4574 103.0266)" class="st0 st2 st3">Jan 9, 8:00 pm</text>
+<text transform="matrix(1 0 0 1 180.4574 127.0266)" class="st0 st2 st4">Ultimate F!rosh</text>
 <rect x="171.9" y="256.9" class="st1" width="237.4" height="62"/>
-<text transform="matrix(1 0 0 1 171.8724 267.2181)"><tspan x="0" y="0" class="st0 st2 st3">Jan 10, 7:00 pm</tspan><tspan x="0" y="24" class="st0 st2 st4">Charity Auction</tspan></text>
+<text transform="matrix(1 0 0 1 171.8724 267.218)" class="st0 st2 st3">Jan 10, 7:00 pm</text>
+<text transform="matrix(1 0 0 1 171.8724 291.218)" class="st0 st2 st4">Charity Auction</text>
 <rect x="73.3" y="392.7" class="st1" width="237.4" height="62"/>
-<text transform="matrix(1 0 0 1 73.2979 403.0692)"><tspan x="0" y="0" class="st0 st2 st3">Jan 11, 7:00 pm</tspan><tspan x="0" y="24" class="st0 st2 st4">Mr. Blue &amp; Gold</tspan></text>
+<text transform="matrix(1 0 0 1 73.2979 403.0693)" class="st0 st2 st3">Jan 11, 7:00 pm</text>
+<text transform="matrix(1 0 0 1 73.2979 427.0693)" class="st0 st2 st4">Mr. Blue &amp; Gold</text>
 <rect x="158" y="491.7" class="st1" width="237.4" height="62"/>
-<text transform="matrix(1 0 0 1 157.9894 502.0692)"><tspan x="0" y="0" class="st0 st2 st3">Jan 12, 7:00 pm</tspan><tspan x="0" y="24" class="st0 st2 st4">Godiva’s Crown</tspan></text>
+<text transform="matrix(1 0 0 1 157.9894 502.0693)" class="st0 st2 st3">Jan 12, 7:00 pm</text>
+<text transform="matrix(1 0 0 1 157.9894 526.0693)" class="st0 st2 st4">Godiva’s Crown</text>
 <rect x="146.6" y="660.2" class="st1" width="237.4" height="62"/>
-<text transform="matrix(1 0 0 1 146.5958 670.5585)"><tspan x="0" y="0" class="st0 st2 st3">Jan 13, 7:00 pm</tspan><tspan x="0" y="24" class="st0 st2 st4">Godiva’s Wake</tspan></text>
+<text transform="matrix(1 0 0 1 146.5958 670.5585)" class="st0 st2 st3">Jan 13, 7:00 pm</text>
+<text transform="matrix(1 0 0 1 146.5958 694.5585)" class="st0 st2 st4">Godiva’s Wake</text>
 <rect x="81.9" y="778.7" class="st1" width="237.4" height="62"/>
-<text transform="matrix(1 0 0 1 81.9043 789.0266)"><tspan x="0" y="0" class="st0 st2 st3">Jan 14, 6:00 pm</tspan><tspan x="0" y="24" class="st0 st2 st4">Cannonball</tspan></text>
+<path class="st0" d="M-11.6,623.7"/>
 </svg>
